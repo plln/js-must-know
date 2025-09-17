@@ -1,5 +1,7 @@
 'use strict';
 
+console.log('js survival guide');
+
 function greet(me = 'ecmascript') {
   console.log(`vanakkam ${me}!`);
 }
