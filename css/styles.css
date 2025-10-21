@@ -1,0 +1,15 @@
+p {
+  font-size: 21px;
+  color: #0f0f0f;
+}
+
+h2 {
+  background-color: crimson;
+  color: white;
+}
+
+a {
+  font-size: 18px;
+  font-weight: bold;
+  color: fuchsia;
+}
