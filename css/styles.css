@@ -16,5 +16,13 @@ h2 {
 a {
   font-size: 18px;
   font-weight: bold;
-  color: fuchsia;
+  color: darkslategray;
+}
+
+nav {
+  background-color: tan;
+}
+
+footer {
+  text-align: center;
 }
